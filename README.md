@@ -27,4 +27,19 @@ Entedendo os tipos de ataques que são descritos no curso, são divididos em Ata
 
 # Preparação de ambinete de testes controlado (https://github.com/drnvalente/Simulado_Dio/issues/1#issue-3678116963) 
 Utilizando o Virtual Box para hospedar as VMs e instalar a Distro Kali Linux e também o <eta splotable que é uma VM com a distro Ubuntu preparado para testes, ou seja, ela possui falahs de segurança propositalmente para efetuar os testes de invasão.
+# Teste de portas abertas na VM comprometida
+Depois de criado o ambinete verificada a conexão em rede de ambos (img002).
+Testando as portas vulneráveis com o nmap (img003)
+
+# Criação da listas "users.txt" "pass.txt"
+Criadas as listas de usuários e senhas para efetuar o teste (img004)
+users.txt()
+pass.txt()
+
+
+
+
+
+
+
 
