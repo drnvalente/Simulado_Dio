@@ -25,6 +25,6 @@ Entedendo os tipos de ataques que são descritos no curso, são divididos em Ata
 6- Wpsacan: O WPScan é uma ferramenta de segurança de código aberto, mas com um foco muito mais específico do que as que você mencionou (Hydra, Medusa, Ncrack). Enquanto as outras são crackers de senha genéricos para múltiplos protocolos de rede, o WPScan é um scanner de vulnerabilidades projetado exclusivamente para instalações do WordPress.
 7- Patator: A ferramenta Patator se encaixa na mesma categoria do Hydra e do Medusa: é um poderoso cracker de senhas online e uma ferramenta de força bruta modular usada em testes de penetração. O nome "Patator" é um acrônimo (que significa algo como Plenty of Amazing Things to Automate The On-line Reversing) e reflete seu design focado em ser flexível e modular para automatizar ataques de login.
 
-# Preparação de ambinete de testes controlado (arquivo img001 com as distros instaladas) 
+# Preparação de ambinete de testes controlado (https://github.com/drnvalente/Simulado_Dio/issues/1#issue-3678116963) 
 Utilizando o Virtual Box para hospedar as VMs e instalar a Distro Kali Linux e também o <eta splotable que é uma VM com a distro Ubuntu preparado para testes, ou seja, ela possui falahs de segurança propositalmente para efetuar os testes de invasão.
 
