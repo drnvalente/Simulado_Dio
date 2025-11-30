@@ -37,7 +37,7 @@ users.txt(https://github.com/drnvalente/Simulado_Dio/issues/5#issue-3678212334)
 pass.txt(https://github.com/drnvalente/Simulado_Dio/issues/6#issue-3678212561)
 
 # Efetuando o ataque com Medusa
-Efetuado ataque conforme ensinado via linha de comando, obtive o resultado de sucesso em uma sequencia de usuário e senha conforme demostrado no video.(https://github.com/drnvalente/Simulado_Dio/issues/7#issue-3678235633)(https://github.com/drnvalente/Simulado_Dio/issues/8#issue-3678236250)
+Efetuado ataque conforme ensinado via linha de comando, obtive o resultado de sucesso em uma sequencia de usuário e senha conforme demostrado no video.(https://github.com/drnvalente/Simulado_Dio/issues/7#issue-3678235633)  (https://github.com/drnvalente/Simulado_Dio/issues/8#issue-3678236250)
 Efetuado o login na maquina via ftp conforme instruído na aula.(https://github.com/drnvalente/Simulado_Dio/issues/9#issue-3678236402)
 
 # Simulando ataque em sistemas web utilizando o DWVA
