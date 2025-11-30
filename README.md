@@ -41,8 +41,7 @@ Efetuado ataque conforme ensinado via linha de comando, obtive o resultado de su
 Efetuado o login na maquina via ftp conforme instruído na aula.(https://github.com/drnvalente/Simulado_Dio/issues/9#issue-3678236402)
 
 # Simulando ataque em sistemas web utilizando o DWVA
-Entrada no site com sucesso(https://github.com/drnvalente/Simulado_Dio/issues/9#issue-3678236402)
-Teste de login inválido(https://github.com/drnvalente/Simulado_Dio/issues/13#issue-3678293190)
+Entrada no site com sucesso(https://github.com/drnvalente/Simulado_Dio/issues/13#issue-3678293190)
 Obtendo informações necessárias no site para testar na Medusa(https://github.com/drnvalente/Simulado_Dio/issues/10#issue-3678290612)
 Efetuando o ataque com a ferramenta Medusa consegui obter o resultado positivo de combinações de usuário e senha(https://github.com/drnvalente/Simulado_Dio/issues/11#issue-3678291161)
 Efetuei o teste de login e obtive sucesso(https://github.com/drnvalente/Simulado_Dio/issues/12#issue-3678291250)
